@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf05A8eDF1b1285b0e67dCea5d1948bA9e82B5966",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf05A8eDF1b1285b0e67dCea5d1948bA9e82B5966",
+  "NETWORK": {
+    "NAME": "Ethereum Rinkeby",
+    "SYMBOL": "RETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Inventor Club Token",
+  "SYMBOL": "ICT",
+  "MAX_SUPPLY": 9000,
+  "WEI_COST": 85000000000000000,
+  "DISPLAY_COST": 0.085,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/inventor-club-token",
+  "SHOW_BACKGROUND": true
+}
